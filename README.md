@@ -2,7 +2,7 @@
 
 A Claude Code plugin that goes from "what internship do I want" to a **Gmail draft
 ready for you to review**. It finds a matching posting, finds a source-verified hiring
-email, writes a cover letter in your voice, and drafts a personable intro email with
+email, tailors cover letter in your voice, and drafts a personable intro email with
 your CV attached.
 
 **It never sends anything.** You will review every draft and press send yourself.
@@ -14,7 +14,7 @@ your CV attached.
 |---|---|---|---|---|
 | 1 | `internship-finder` | Finds one live posting that meets your MUST requirements, with quoted evidence | web | `01-internship.md` |
 | 2 | `email-finder` | Finds a hiring email that appears verbatim on an official page. Never guessed | web | `02-contact.md` |
-| 3 | `cover-letter-writer` | Writes a tailored letter in your tone, using only facts from your CV | files only | `03-cover-letter.md` |
+| 3 | `cover-letter-writer` | Drafts a tailored letter in your tone, using only facts from your CV | files only | `03-cover-letter.md` |
 | 4 | `email-drafter` | Saves an intro email as a Gmail **draft** | files + Gmail draft | `04-email.md` |
 
 The head agent copies your CV into the run folder, passes it to the drafter as an attachment,
