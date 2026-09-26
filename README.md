@@ -5,7 +5,7 @@ ready for you to review**. It finds a matching posting, finds a source-verified 
 email, writes a cover letter in your voice, and drafts a personable intro email with
 your CV attached.
 
-**It never sends anything.** You review every draft and press send yourself.
+**It never sends anything.** You will review every draft and press send yourself.
 
 ## How it works
 `/internship-apply` runs a head agent that calls four sandboxed subagents, strictly in order:
