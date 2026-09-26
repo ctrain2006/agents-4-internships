@@ -1,8 +1,12 @@
 # agents-4-internships
+Most students are experiencing the difficulty of finding that first internship. While I am facing the same hindrance, I decided to build this agent structure w/ the help of Claude, in hopes to extract meaningful opportunities, and turn it into an interview. 
+
 A Claude Code plugin that goes from "what internship do I want" to a **Gmail draft
 ready for you to review**. It finds a matching posting, finds a source-verified hiring
 email, tailors cover letter in your voice, and drafts a personable intro email with
 your CV attached.
+
+
 
 **It never sends anything.** You will review every draft and press send yourself.
 
