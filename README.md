@@ -1,5 +1,4 @@
-# internship-agents
-
+# agents-4-internships
 A Claude Code plugin that goes from "what internship do I want" to a **Gmail draft
 ready for you to review**. It finds a matching posting, finds a source-verified hiring
 email, tailors cover letter in your voice, and drafts a personable intro email with
