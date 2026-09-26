@@ -1,0 +1,16 @@
+{
+  "name": "internship-agents",
+  "owner": {
+    "name": "ctrain2006"
+  },
+  "plugins": [
+    {
+      "name": "internship-agents",
+      "source": "./",
+      "description": "Internship search to Gmail draft pipeline with four sandboxed subagents. Drafts only, never sends."
+    }
+  ],
+  "metadata": {
+    "description": "Internship search to Gmail-draft pipeline for Claude Code. Drafts only, never sends."
+  }
+}

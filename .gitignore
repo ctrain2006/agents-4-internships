@@ -1,0 +1,6 @@
+# Personal data: never commit
+internship-profile.md
+cv/
+applications/
+.DS_Store
+node_modules/

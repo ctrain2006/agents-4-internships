@@ -1,0 +1,10 @@
+{
+  "name": "internship-agents",
+  "version": "0.1.0",
+  "description": "Finds a matching internship, a source-verified hiring email, writes a tailored cover letter, and saves a personable intro email as a Gmail draft. Never sends.",
+  "author": { "name": "ctrain2006" },
+  "homepage": "https://github.com/ctrain2006/internship-agents",
+  "repository": "https://github.com/ctrain2006/internship-agents",
+  "license": "MIT",
+  "keywords": ["internship", "job-search", "cover-letter", "gmail", "subagents"]
+}
